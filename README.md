@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rashed Zahan Rumon
-- 👀 I’m interested in QA Engineer
+- 👀 I’m a SQA Engineer
 - 🌱 I’m currently learning more about QA Automation testing, Like: Postman, Selenium, Appium
-- 💞️ I’m looking forward to collaborate on a QA testing team
+- 💞️ I’m looking forward to collaborate on a SQA specialist
 - 📫 You can reach me.
 - ras.zahan24@gmail.com
 - https://twitter.com/ra_zahan
