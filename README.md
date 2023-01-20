@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m R. Rashed Zahan<br>👀 I’m a QA Engineer<br>🌱 I’m learning more about QA Testing<br>💞️ I’m looking forward to collaborating with SQA specialist<br>📫 You can reach me.<br>ras.zahan24@gmail.com<br>https://twitter.com/ra_zahan<br>https://www.linkedin.com/in/razahan/
+👋 Hi, I’m R. Rashed Zahan<br>💻 I’m an enthusiastic SQA Engineer<br>👨‍💻 I’m learning more about automated testing tools and process<br>🤝 I’m looking forward to collaborating with some specialist<br>⚡ I always love to learn new things, new strategies <br>📫 You can reach me.<br>ras.zahan24@gmail.com<br>https://twitter.com/ra_zahan<br>https://www.linkedin.com/in/razahan/
 
 
 ## 🌐 Socials:
