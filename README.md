@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hi, welcome to my GitHub account. You can find my working updates here. My name is Rashed Zahan, working as a SQA engineer from 2021. I've hands-on experience in test planning, test design, test case writing, test execution, and bug reporting. I've been working on Manual testing, functional and non-functional testing, integration testing, regression testing, API testing, performance load and stress testing, and also I am working on selenium web driver automation testing using Page Object model (POM) model. 👨‍💻 Keep learning more about test automation, test techniques, and new technologies. I like to read books, watching movies and travelling. <br> 🤝 Let's collaborate with each other to sharing our knowledge and experience. ⚡ I'm a good listener to learn something new.
 ## 📫 You can reach me.<br>
-rashedzahan24@gmail.com<br>https://twitter.com/ra_zahan<br>https://www.linkedin.com/in/razahan/
+rashedzahan24@gmail.com<br>ras.zahan24@gmail.com<br>https://twitter.com/ra_zahan<br>https://www.linkedin.com/in/razahan/
 
 
 ## 🌐 Socials:
